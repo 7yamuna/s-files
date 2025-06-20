@@ -1,0 +1,18 @@
+machine learning
+https://github.com/OMIII1997/Loan-Approval-Prediction/blob/master/Loan_Approval_Prediction.ipynb
+UCI Machine
+imputation(mode meadian)
+outliers(iqr method)
+feature importance(decision tree,random forest)
+imblanced class(resampling)
+scaled,up,down,features compare with dt,rf
+give all acuuray of it
+
+
+
+linear regression,decision tree,random forest,svm,logistic regression,
+https://github.com/OMIII1997/Loan-Approval-Prediction/blob/master/Loan_Approval_Prediction.ipynbs
+3b1b(blue,brown),,,,campusx
+multicollinearity
+normalization
+cost functions
